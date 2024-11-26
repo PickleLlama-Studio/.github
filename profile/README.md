@@ -25,9 +25,19 @@ We wish you all the best and happy building!
 - #### [Interviewer AI (for automating interview style conversations)](https://github.com/PickleLlama-Studio/interviewer-ai)
 - #### [Understand AI (a light-weight RAG Knowledge Base APP)](https://github.com/PickleLlama-Studio/Understand-AI)
 
+- #### [Chainlit Starter Template](https://github.com/PickleLlama-Studio/chainlit-starter)
+
+- #### [A Model of Information Task Complexity](https://colab.research.google.com/drive/13gv0om6gTZEND0jmsXiRudaonbVqoasS?authuser=0#scrollTo=SwuuSGlx-xGr)
+
 More to come soon :)
 
 ### Resources - For Non-Technical Folks
+
+- #### [What to do when things don't scale](https://picklellama.studio/when-it-does-not-scale)
+
+- #### [Why using Excel isn't stupid (for now...)](https://picklellama.studio/excel-is-not-stupid)
+
+
 
 We have a lot of helpful guides and knowlege on our founder's [youtube](https://www.youtube.com/@MrGlobeJuanderer) and at our website, [PickleLlama.studio](https://picklellama.studio/blog)
 
